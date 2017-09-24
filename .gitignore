@@ -4,6 +4,9 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+tv-script-generation/save.data-00000-of-00001
+
+
 
 .ipynb_checkpoints/
 
